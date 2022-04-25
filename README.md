@@ -4,7 +4,6 @@ I am Dulaj Prabasha, currently a third year CS undergrad at the University of Co
 
 - 🌱 I’m currently learning TensorFlow, React and Node
 - 🔭 I’m currently working on a chatbot project and a time management project
-- 🤔 I’m looking for help with setting up Chart rendering on a React application
 - 💬 Ask me about anything really
 - 📫 How to reach me: http://instagram.com/adow_dulaj
 
