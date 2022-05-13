@@ -15,6 +15,7 @@ I am Dulaj Prabasha, currently a third year CS undergrad at the University of Co
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
