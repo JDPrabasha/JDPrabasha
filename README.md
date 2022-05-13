@@ -2,8 +2,8 @@
 
 I am Dulaj Prabasha, currently a third year CS undergrad at the University of Colombo School of Computing (UCSC). Apart from coding, I both write and design.
 
-- 🌱 I’m currently learning TensorFlow, React and Node
-- 🔭 I’m currently working on a chatbot project and a time management project
+- 🌱 I’m currently learning TensorFlow, React, Flutter and Node
+- 🔭 I’m currently working on a time management project
 - 💬 Ask me about anything really
 - 📫 How to reach me: http://instagram.com/adow_dulaj
 
