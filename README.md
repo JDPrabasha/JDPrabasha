@@ -1,9 +1,9 @@
 ### Hello World! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Python" height="28" style="vertical-align:top; margin-left:8px">
 
-I am Dulaj Prabasha, currently a third year SE undergrad at the University of Colombo School of Computing (UCSC). Apart from coding, I both write and design.
+I am Dulaj Prabasha, currently a Final Year SE undergrad at the University of Colombo School of Computing (UCSC). Apart from coding, I both write and design.
 
 - 🌱 I’m currently learning System Design and DevOps
-- 🔭 I’m currently working on building data collection pipeline for an AI project
+- 🔭 I’m currently working on building a Moodle plugin that can visualize, organize and search semantically across unstructured leaarning resources 
 - 💬 Ask me about anything really
 - 📫 How to reach me: http://instagram.com/adow_dulaj
 
